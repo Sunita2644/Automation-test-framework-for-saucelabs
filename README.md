@@ -9,8 +9,6 @@ Installation Instructions: 1.Take the pull of this repository
                           
                            
                            or
-                           
-                           
                            1.Take the pull of repository
                            2.Open git bash in the project folder
                            3. run cammand 'mvn clean test'
