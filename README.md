@@ -3,7 +3,8 @@ Project Description: Test Framework developed using Java and Selenium. Framework
 
 
                      
-Installation Instructions: 1.Take the pull of this repository
+Installation Instructions: 
+                           1.Take the pull of this repository
                            2.Open the project in Eclipse
                            3.Click on testng.xml and run it as 1TestNGSuite 
                           
