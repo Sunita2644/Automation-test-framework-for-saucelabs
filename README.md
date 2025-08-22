@@ -7,8 +7,6 @@ Installation Instructions:
                            1.Take the pull of this repository
                            2.Open the project in Eclipse
                            3.Click on testng.xml and run it as 1TestNGSuite 
-                          
-                           
                            or
                            1.Take the pull of repository
                            2.Open git bash in the project folder
